@@ -1,14 +1,11 @@
-# About Me
+### Hi! I'm Tobey. A Frond-End Developer.
+_I delight in learning fresh lore, and gladly share evermore._
 
-## I'm a Front-End Developer
+***
 
-### Connect with me 👩🏻
-[<img align="left" alt="uuam | Gmail" width="30px" src="https://github.com/uuam/about_uuam/assets/115550923/5c674be6-9aaf-481b-8a41-e3d56f3e4b9f" />][email]
-[<img align="left" alt="uuam | Youtube" width="30px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
+` Languages and Tools 💻 `
 
 <br />
-
-### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
@@ -25,8 +22,11 @@
 [<img align="left" alt="Tailwind" width="30px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" />][tailwindcss]
 
 <br />
+<br />
 
-### Design Tools
+` Design Tools 🖍️ `
+
+<br />
 
 [<img align="left" alt="Figma" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />][figma]
 [<img align="left" alt="Illustrator" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />][illustrator]
@@ -34,8 +34,18 @@
 [<img align="left" alt="Premiere" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" />][premiere]
 [<img align="left" alt="Davinci" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" />][davinci]
 
+<br />
+<br />
+
+` Connect with me 👩🏻 `
+
+<br />
 
 
+[<img align="left" alt="uuam | Gmail" width="30px" src="https://github.com/uuam/about_uuam/assets/115550923/5c674be6-9aaf-481b-8a41-e3d56f3e4b9f" />][email]
+[<img align="left" alt="uuam | Youtube" width="30px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
+
+<br />
 
 [vscode]:https://code.visualstudio.com/
 [html5]:https://zh.wikipedia.org/zh-tw/HTML5
