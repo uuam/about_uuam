@@ -1,10 +1,10 @@
-# 自我介紹
+# About Me
 
-## 我是一名前端工程師 Front-End Developer
-
+## I'm a Front-End Developer
 
 ### Connect with me 👩🏻
-[<img align="left" alt="CodeCandDo | Instagram" width="30px" src="https://github.com/uuam/about_uuam/assets/115550923/5c674be6-9aaf-481b-8a41-e3d56f3e4b9f" />][email]
+[<img align="left" alt="uuam | Gmail" width="30px" src="https://github.com/uuam/about_uuam/assets/115550923/5c674be6-9aaf-481b-8a41-e3d56f3e4b9f" />][email]
+[<img align="left" alt="uuam | Youtube" width="30px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
 
 <br />
 
@@ -58,6 +58,7 @@
 [webside]:https://vercel.com/uuam
 
 [email]:mailto:chen552025@gmail.com
+[youtube]:https://youtube.com/@user-fd2dc2ld8b?si=7SHtRFIDlr0jF8xX
 
 
 
